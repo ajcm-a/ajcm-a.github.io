@@ -1,0 +1,136 @@
+
+header
+{
+    background:rgb(196, 255, 250); 
+    color: rgb(46, 46, 46);
+    border: 1px solid red;
+    overflow: auto;
+}
+header h1
+{
+    color: rgb(144, 8, 255);
+    margin-top: 2em;
+    margin-left: 15em;
+    padding: 0em 0em 0em 5em;
+}
+header nav
+{
+    background: white;
+    padding: 0.1em 0em 0.1em 0em;
+    margin: 5em 0.2em 0em 12em;
+}
+header nav ul
+{
+    list-style: none;
+    
+}
+header nav ul li
+{
+    display: inline-block;
+    margin-right: 0.1em;
+    background: rgb(166, 242, 255);
+    border: 1px solid yellow;
+    padding: 0.1em 0.4em;
+    width: 8.6em; 
+
+}
+header nav ul li a
+{
+    display: inline-block;
+    color: brown;
+    border: 1px solid red;
+    text-decoration: none;
+    padding: 0.1em 0em;
+    text-align: center;
+    width: 8.6;
+}
+body
+{
+    background:rgb(255, 255, 255); 
+    color: rgb(46, 46, 46); 
+    font-family: serif; 
+    width: 80%; 
+    font-size: 16px; 
+    margin: auto; 
+    border: red;
+} 
+
+aside
+{
+    background: antiquewhite; 
+    color: rgb(46, 46, 46);
+    padding: 2.0em;
+    border:1PX solid red;
+    margin-left: 66.3%; 
+}
+
+footer
+{
+    background: rgb(255, 233, 199); 
+    
+    color: rgb(42, 113, 126);
+    border: 2px solid rgb(120, 238, 100);
+    clear: both;
+}
+
+header img
+{
+    float: left;
+    margin-left: 1.0cm;
+    overflow: auto;
+}
+
+img
+{
+    border-radius: 50%;
+    margin: 0.5cm;
+}
+
+section
+{
+    background: rgb(255, 157, 173);
+    border: 1px solid white;
+    padding: 2.0em;
+    padding-right: 2em;
+    padding-bottom: 8.59em;
+    float: left;
+    width: 60%;
+    border: 2PX solid blue;
+}
+
+video
+{
+    width: 80%;
+}
+
+p
+{
+    text-align: justify;
+}
+footer #up
+{
+    padding-top: 1.0em;
+    padding-bottom: 1.0em; 
+    background: rgb(180, 124, 55)
+}
+footer #down
+{
+    background: rgb(238, 159, 62);
+    padding-bottom: 1.0em;
+    padding-top: 1em;
+}
+#main
+{
+    border: 1px solid red;
+    background: rgb(157, 255, 157);
+}
+footer p
+{
+    text-align: center;
+}
+header nav ul li a:hover
+{
+    background: rgb(240, 151, 203);
+    color: white;
+    
+}
